@@ -8,13 +8,13 @@ A simple todolist application made using django.
 Clone the project
 
 ```bash
-  $ git clone https://link-to-project
+  $ git clone https://github.com/RohanHarichandan/todolist
 ```
 
 Go to the project directory
 
 ```bash
-  $ cd my-project
+  $ cd todolist
 ```
 
 Start the server
